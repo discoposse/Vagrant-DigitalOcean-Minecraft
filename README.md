@@ -8,4 +8,8 @@ Your SSH Key for Digital Ocean
 Your Client ID for Digital Ocean
 Your API Key for Digital Ocean
 
+This will build a server named 'minecraft' and will download the Minecraft 1.7.9 jar files plus install a script to start the server as a service. 
+
+
+
 
