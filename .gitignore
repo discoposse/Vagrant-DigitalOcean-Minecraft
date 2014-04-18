@@ -16,6 +16,8 @@ local.properties
 .settings/
 .loadpath
 id_rsa
+id_rsa.pub
+Vagrant-ewright
 Vagrantfile
 
 # External tool builders
